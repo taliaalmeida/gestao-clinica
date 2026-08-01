@@ -1,6 +1,7 @@
 ✨ Clínica de Estética - Sistema de Gestão
 
-<img width="2560" height="1440" alt="readme_banner" src="https://github.com/user-attachments/assets/d3436bdc-c7d5-4734-a41a-87ef20e110a5" />
+<img width="2560" height="1440" alt="readme_banner" src="https://github.com/user-attachments/assets/328db8ed-9483-44f6-b436-926dce1a596d" />
+
 
 Este é um sistema completo de gestão para clínicas de estética, focado em proporcionar uma experiência elegante e eficiente tanto para 
 profissionais quanto para clientes. O sistema oferece controle de agenda, gestão financeira, base de clientes e painel administrativo.
@@ -16,25 +17,29 @@ profissionais quanto para clientes. O sistema oferece controle de agenda, gestã
 •	Dashboard e Agenda
 
 Visualização limpa e intuitiva dos compromissos do dia. 
-<img width="893" height="768" alt="agenda_dashboard" src="https://github.com/user-attachments/assets/7be67f80-d7a8-4d89-a8dd-60184f7de3ae" />
+<img width="893" height="768" alt="agenda_dashboard" src="https://github.com/user-attachments/assets/567f6c82-9737-4720-809c-cfb17bbb0b24" />
+
 
 
 •	Gestão Financeira
 
 Resumo detalhado de entradas e saídas para um controle preciso. 
-<img width="893" height="768" alt="financeiro_fechamento" src="https://github.com/user-attachments/assets/9a44752a-805c-49ea-b587-0ba126ec61fe" />
+<img width="893" height="768" alt="financeiro_fechamento (1)" src="https://github.com/user-attachments/assets/8729e589-4316-4c23-af41-926342531cf9" />
+
 
 
 •	Visão Geral (Admin)
 
 Métricas em tempo real para tomada de decisão.
-<img width="893" height="768" alt="admin_visao_geral" src="https://github.com/user-attachments/assets/2a2668e2-f7f4-465b-9202-8fbc9a69baae" />
+<img width="893" height="768" alt="admin_visao_geral" src="https://github.com/user-attachments/assets/238cd54b-190f-4e38-be05-f503e643b35e" />
+
 
 
 •	Lista de Clientes
 
 Organização eficiente de todos os seus contatos e históricos.
-<img width="893" height="768" alt="clientes_lista" src="https://github.com/user-attachments/assets/bed4b429-67c3-4faf-bcd9-8dda7ccab190" />
+<img width="893" height="768" alt="clientes_lista" src="https://github.com/user-attachments/assets/4dccdf23-ee85-4a68-ac34-9e62fa9349a6" />
+
 
 
 🛠️ Tecnologias Utilizadas
